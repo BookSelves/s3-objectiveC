@@ -62,4 +62,6 @@ In addition, it asks the `Reachability` object to consider the WWAN (3G/EDGE/CDM
 
 ## Tell the world
 
-Head over to [Projects using Reachability](https://github.com/tonymillion/Reachability/wiki/Projects-using-Reachability) and add your project for "Maximum Wins!".
+Head over to [Projects using Reachability](https://github.com/tonymillion/Reachability/wiki/Projects-using-Reachability) and add your project for "Maximum Wins!".'
+
+
